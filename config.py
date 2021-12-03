@@ -3,7 +3,7 @@
 # tgChannel = "@durov"
 # tgChannel = -1234567890987
 # Don't forget to add bot to this channel as an administrator!
-tg_channel = "@aaaa"
+tg_channel = "@raspinaniyabgk"
 
 # Token for your Telegram bot.
 # You can get it here: https://t.me/BotFather
@@ -12,18 +12,18 @@ tg_bot_token = "1234567890:AAA-AaA1aaa1AAaaAa1a1AAAAA-a1aa1-Aa"
 # Personal token for your VK profile.
 # You can get it here:
 # https://github.com/alcortazzo/vktgbot/wiki/How-to-get-personal-access-token
-vk_token = "00a0a0ab00f0a0ab00f0a6ab0c00000b0f000f000f0a0ab0a00b000000dd00000000de0"
+vk_token = "1993c5ac1993c5ac1993c5ac7019e99694119931993c5ac783a2ce30a10b37a4712dd01"
 
 # Part of the link (after vk.com/) to the VK channel
 # for example:
 # if link is vk.com/>>>example<<<
 # vk_domain = "example"
-vk_domain = "bbbb"
+vk_domain = "club201219488"
 
 # Link to another Telegram channel if you want to receive bot log messages.
 # You can use the same bot as for the main task.
 # Don't forget to add bot to this channel as an administrator!
-tg_log_channel = "@cccc"
+tg_log_channel = "roki_crazy"
 
 # Token for another Telegram bot if you want to use another bot for logging.
 # Leave the value empty if you want use main bot (tg_bot_token) for logging.
@@ -45,7 +45,7 @@ req_count = 3
 # "all" — posts by the wall owner and others
 # "postponed" — timed posts (only available for calls with an access_token)
 # "suggests" — suggested posts on a community wall
-req_filter = "owner"
+req_filter = "all"
 
 # If True bot will stop after first pass through the loop.
 single_start = False
