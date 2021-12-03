@@ -7,7 +7,7 @@ tg_channel = "@raspinaniyabgk"
 
 # Token for your Telegram bot.
 # You can get it here: https://t.me/BotFather
-tg_bot_token = "1234567890:AAA-AaA1aaa1AAaaAa1a1AAAAA-a1aa1-Aa"
+tg_bot_token = "5084967347:AAH0QTQqx0MvVMmaZZ1hvxhpUjHQhdv0eeY"
 
 # Personal token for your VK profile.
 # You can get it here:
